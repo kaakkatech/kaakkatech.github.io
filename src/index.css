@@ -1,0 +1,8 @@
+:root{
+  background-color: hsl(0, 0%, 9%);
+}
+
+*,*::before,*::after{
+  box-sizing: border-box;
+  /* outline: 1px solid red; */
+}
